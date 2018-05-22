@@ -15,6 +15,7 @@ Categories: "verbs", "adj" (adjectives), "adv" (adverbs), "pron_prep" (prepositi
 "food" (nouns), "city" (nouns), "world" (nouns), "body" (nouns), "animals" (nouns), "people" (nouns).
 
  Tab Learn: 
+ 
     Created for learning/repeating words. 
     Below there are norwegian word, english translation and in the comments row there are either forms of verbs or plural/singular
     noun/adjective forms.
@@ -22,6 +23,7 @@ Categories: "verbs", "adj" (adjectives), "adv" (adverbs), "pron_prep" (prepositi
     Button Quit will exit the program.
     
  Tab Quiz:
+ 
    Choose a category in drop list and the language of quiz: "Norwegian -> English" means that a word in question will be in norwegian, 
    while 4 choices (where one is correct) will be in english, and "English -> Norwegian" is the other way around. So in this quiz you
    have to find a correct translation.  
@@ -31,6 +33,7 @@ Categories: "verbs", "adj" (adjectives), "adv" (adverbs), "pron_prep" (prepositi
    Navigate via a button Next. Button Continue will select next 25 words from this category. Button Quit will exit the program.
    
  Tab Write:
+ 
    Created for checking the verbs spelling. Again select a category (which is only verbs). In the upper right corner you will see 
    how many words are left in this category. 
    Below you will see a verb in english. Your task is to translate it to norwegian and write its forms in the corresponding fields:
