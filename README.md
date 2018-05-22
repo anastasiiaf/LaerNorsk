@@ -1,7 +1,7 @@
 # LaereNorsk
 This app helps me to learn norwegian :) (works but still under construction)
 
-This application is written in Python, interface is done via Tkinter library
+Application LæreNorsk is written in Python, interface is done via Tkinter library
 
 1. Run gui.py 
 2. Application will start with a "greeting" picture of fjords and will play a national anthem of Norway 
