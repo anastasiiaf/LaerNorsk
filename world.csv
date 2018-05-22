@@ -1,0 +1,96 @@
+﻿ID,N,E,C
+1,åker,field,"en åker - åkeren - åkere (åkrer, åkre) - åkerne (åkrene)"
+2,aluminium,aluminium,en/et aluminium - aluminiumen (aluminiumet) - aluminiumer (aluminium) - aluminiumene (aluminiuma)
+3,avskoging,deforestation,en/ei avskoging - avskogingen (avskoginga) - avskoginger - avskogingene
+4,bakke,hill,en bakke - bakken - bakker - bakkene
+5,befolkning,population,en/ei befolkning - befolkningen (befolkninga) - befolkninger - befolkningene
+6,blomst,flowers,en blomst - blomsten - blomster - blomstene
+7,bølge,wave,en/ei bølge - bølgen (bølga) - bølger - bølgene
+8,bre,glacier,en bre - breen - breer - breene
+9,bris,breeze,en bris - brisen - briser - brisene
+10,bukt,bay,en/ei bukt - bukten (bukta) - bukter - buktene
+11,bunn,bottom,en bunn - bunnen - bunner - bunnene
+12,dal,valley,en dal - dalen - daler - dalene
+13,dugg,dew,en dugg - duggen - dugger - duggene
+14,elv,river,en/ei elv - elven (elva) - elver - elvene
+15,eng,meadow,en/ei eng - engen (enga) - enger - engene
+16,fjell,mountain,et fjell - fjellet - fjell - fjellene (fjella)
+17,folk,folk,et folk - folket - folk - folkene (folka)
+18,fuktighet,humidity, en/ei fuktighet -  fuktigheten (fuktigheta) - fuktigheter - fuktighetene
+19,gass,gas ,en gass - gassen - gasser - gassene
+20,gull,gold,et gull - gullet - gull - gullene (gulla)
+21,hage,garden,en hage - hagen - hager - hagene
+22,hav,ocean,et hav - havet - hav - havene (hava)
+23,hete,heat,en hete - heten - heter - hetene
+24,himmel,sky,en himmel -  himmelen - himler - himlene
+25,høst,autumn,en høst - høsten - høster - høstene
+26,hule,cave,en/ei hule - hulen (hula) - huler - hulene
+27,innsjø,lake,en innsjø - innsjøen - innsjøer - innsjøene
+28,is,ice,en is - isen - iser (is) - isene
+29,isfjell,iceberg,et isfjell - isfjellet - isfjell - isfjellene (isfjella)
+30,jern,iron,et jern -  jernet -  jern -  jernene (jerna)
+31,jord,earth,en/ei jord - jorden (jorda) - jorder - jordene
+32,kilde,"source, fountain",en kilde - kilden - kilder - kildene
+33,kulde,"cold, frost",en/ei kulde - kulden (kulda) - kulder - kuldene
+34,kuldegrad,minus degree,en kuldegrad - kuldegraden - kuldegrader - kuldegradene
+35,kuling,high wind,en kuling - kulingen - kulinger - kulingene
+36,kull,coal,et kull - kullet - kull -kullene (kulla)
+37,kyst,"coast, shore",en kyst - kysten - kyster - kystene
+38,land,country,et land - landet - land - landene (landa)
+39,luft,air,en/ei luft - luften (lufta) - lufter - luftene
+40,malm,ore,en malm - malmen - malmer - malmene
+41,måne,moon,en måne - månen - måner - månene
+42,myr,marsh,en/ei myr - myren (myra) - myrer - myrene
+43,nasjonalitet,nationality,en nasjonalitet - nasjonaliteten - nasjonaliteter - nasjonalitetene
+44,natur,nature,en natur - naturen - naturer - naturene
+45,nedbør,precipitation,en nedbør - nedbøren - nedbører - nedbørene
+46,nord,north,
+47,ødemark,"wilderness, wilds",en/ei ødemark - ødemarken (ødemarka) - ødemarker - ødemarkene
+48,olje,oil,en/ei olje - oljen (olja) - oljer - oljene
+49,opphold,not raining anymore,et opphold - oppholdet - opphold - oppholdene (oppholda)
+50,orkan,hurricane,en orkan - orkanen - orkaner - orkanene
+51,ørken,desert,en ørken - ørkenen - ørkener - ørkenene
+52,øst,east,
+53,overbefolkning,overpopulation,en/ei overbefolkning - overbefolkningen (overbefolkninga) - overbefolkninger - overbefolkningene
+54,øy,island,en/ei øy - øyen (øya) - øyer - øyene
+55,paradis,paradise, et paradis - paradiset - paradiser (paradis) - paradisene (paradisa)
+56,regn,rain,et regn -  regnet -  regn -  regnene (regna)
+57,regnbue,rainbow,en regnbue - regnbuen - regnbuer - regnbuene
+58,regnbyge,rain shower,en/ei regnbyge - regnbygen (regnbyga) - regnbyger - regnbygene
+59,sand,sand,en sand - sanden - sander - sandene
+60,sjø,sea,en sjø - sjøen - sjøer - sjøene
+61,skau,forest,en skau - skauen - skauer - skauene
+62,skog,forest,en skog - skogen - skoger - skogene
+63,sky,cloud,en/ei sky - skyen (skya) - skyer - skyene
+64,skydekke,cloudness,et skydekke - skydekket - skydekker - skydekkene (skydekka)
+65,slette,plain,en/ei slette - sletten (sletta) - sletter - slettene
+66,sludd,sleet (rain and snow),et sludd - sluddet - sludd - sluddene (sludda)
+67,slukt,"ravine, canyon",en slukt - slukten - slukter - sluktene
+68,snø,snow,en snø - snøen - snøer - snøene
+69,sol,sun,en/ei sol - solen (sola) - soler - solene
+70,sølv,silver,et sølv - sølvet - sølv - sølvene (sølva)
+71,sommer,summer,"en sommer - sommeren - sommere (somrer, somre) - sommerne (somrene)"
+72,sør,south,
+73,statsborgerskap,citizenship,et statsborgerskap - statsborgerskapet - statsborgerskap - statsborgerskapene (statsborgerskapa)
+74,stein,stone,en stein -  steinen -  steiner -  steinene
+75,steppe,steppe,en steppe - steppen - stepper - steppene
+76,stjerner,stars,en/ei stjerne - stjernen (stjerna) - stjerner - stjernene
+77,støv,dust,et støv - støvet - støv - støvene (støva)
+78,strand,beach,en/ei strand - stranden (stranda) - strender - strendene
+79,strøm,current,en strøm - strømmen - strømmer - strømmene
+80,tåke,fog,en/ei tåke - tåken (tåka) - tåker - tåkene
+81,tjern,"small lake, swamp","en/ei/et tjern - tjernen (tjerna, tjernet) - tjerner (tjern) - tjernene (tjerna)"
+82,tørke,drought,en/ei tørke - tørken (tørka) - tørker - tørkene
+83,uvær,storm,et uvær - uværet - uvær - uværene (uværa)
+84,vær,weather,en vær - væren - værer - værene
+85,vann,water,et vann - vannet - vann - vannene (vanna)
+86,vår,spring,en vår - våren - vårer - vårene
+87,varmegrad,plus degree,en varmegrad - varmegraden - varmegrader - varmegradene
+88,ved,wood,en ved - veden - veder - vedene
+89,verdensdel,continent,en verdensdel -  verdensdelen -  verdensdeler - verdensdelene
+90,vest,west,
+91,vier,willow,en vier - vieren - viere (vier) - vierne
+92,vik,creek,en/ei vik - viken (vika) - viker - vikene
+93,vind,wind, en vind - vinden - vinder - vindene
+94,vinter,winter,"en vinter -  vinteren - vintere (vintrer, vintre) - vinterne (vintrene)"
+95,yr,drizzle (rain and fog),et yr - yret - yr - yrene (yra)

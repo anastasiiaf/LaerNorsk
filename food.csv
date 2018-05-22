@@ -1,0 +1,114 @@
+﻿ID,N,E,C
+1,agurk,cucumber,en agurk - agurken - agurker - agurkene
+2,ananas,pineapple,en ananas - ananasen - ananaser - ananasene
+3,appelsin,orange,en appelsin - appelsinen - appelsiner - appelsinene
+4,banan,banana,en banan -  bananen -  bananer -  bananene
+5,basilikum,basil,en basilikum - basilikumen - basilikumer - basilikumene
+6,bjørnebær,blackberry,et bjørnebær - bjørnebæret - bjørnebær - bjørnebærene (bjørnebæra)
+7,blåbær,blueberry,et blåbær - blåbæret - blåbær - blåbærene (blåbæra)
+8,bladsalat,lettuce,en bladsalat - bladsalaten - bladsalater - bladsalatene
+9,bokhvete,buckwheat,en bokhvete - bokhveten - bokhveter - bokhvetene
+10,bønn,bean,en/ei bønn - bønnen (bønna) - bønner - bønnene
+11,bringebær,raspberry,et bringebær - bringebæret - bringebær - bringebærene (bringebæra)
+12,brød,bread,et brød - brødet - brød - brødene (brøda)
+13,brus,soda,en brus - brusen - brus - brusene
+14,bygg,barley,en/et bygg - byggen (bygget) - bygger (bygg) - byggene (bygga)
+15,dessert,dessert,en dessert - desserten -  desserter - dessertene
+16,dill,dill,en dill - dillen - diller - dillene
+17,drue,grape,en/ei drue - druen (drua) - druer - druene
+18,eddik,vinegar,en eddik - eddiken - eddiker - eddikene
+19,egg,egg,et egg - egget - egg - eggene (egga)
+20,eggfrukt,aubergine,en/ei eggfrukt - eggfrukten (eggfrukta) - eggfrukter - eggfruktene
+21,eple,apple,et eple - eplet - epler - eplene (epla)
+22,ert,pea,en/ei ert - erten (erta) - erter - ertene
+23,fersken,peach, en fersken - ferskenen - ferskener - ferskenene
+24,fisk,fish,en fisk - fisken - fisker - fiskene
+25,fløte,cream,en fløte - fløten - fløter - fløtene
+26,frokost,breakfast,en frokost - frokosten - frokoster - frokostene
+27,frukt,fruit,en/ei frukt - frukten (frukta) - frukter - fruktene
+28,godteri,candy,et godteri - godteriet - godterier (godteri) - godteriene (godteria)
+29,gresskar,pumpkin,et gresskar - gresskaret - gresskar - gresskarene (gresskara) 
+30,grønnsak,vegetable,en/ei grønnsak  - grønnsaken (grønnsaka) - grønnsaker - grønnsakene
+31,gulrot,carrot,en/ei gulrot - gulroten (gulrota) - gulrøtter - gulrøttene
+32,havre,oats, en havre - havren - havrer - havrene
+33,hirse,millet,en hirse - hirsen - hirser - hirsene
+34,honning,honey,en honning - honningen - honninger - honningene
+35,hvete,wheat,en hvete - hveten - hveter - hvetene
+36,hvitløk,garlic,en hvitløk  - hvitløken - hvitløker - hvitløkene
+37,iskrem,ice cream,en iskrem - iskremen - iskremer - iskremene
+38,jordbær,strawberry,et jordbær - jordbæret - jordbær - jordbærene (jordbæra)
+39,jus,juice,en jus - jusen - juser - jusene
+40,kaffe,coffee,en kaffe - kaffen - kaffer - kaffene
+41,kake,cake, en/ei kake - kaken (kaka) - kaker - kakene
+42,kål,cabbage,en kål - kålen - kåler - kålene
+43,kalkun,turkey, en kalkun - kalkunen - kalkuner - kalkunene
+44,kasjunøtt,cashew,en/ei kasjunøtt - kasjunøtt (kasjunøtta) - kasjunøtter - kasjunøttene
+45,kirsebær,cherry,et kirsebær - kirsebæret - kirsebær - kirsebærene (kirsebæra)
+46,kjøtt,meat,et kjøtt -  kjøttet - kjøtt - kjøttene (kjøtta)
+47,kosthold,diet,et kosthold - kostholdet - kosthold - kostholdene (kostholda)
+48,krydder,spice,et krydder - krydderet - krydder (kryddere) - krydderne (kryddera)
+49,kveldsmat,supper,en kveldsmat - kveldsmaten - kveldsmater - kveldsmatene
+50,kylling,chicken,en kylling - kyllingen - kyllinger - kyllingene
+51,laks,salmon,en laks - laksen - lakser - laksene
+52,lam,lamb,et lam - lammet - lam - lammene (lamma)
+53,lapskaus,stew,en lapskaus - lapskausen - lapskauser - lapskausene
+54,lind,lime, en/ei lind - linden (linda) - linder - lindene
+55,løk,onion,en løk - løken - løker - løkene
+56,lunsj,lunch,en lunsj - lunsjen - lunsjer - lunsjene
+57,mais,corn,en mais - maisen - maiser - maisene
+58,måltid,meal, et måltid - måltidet - måltider (måltid) - måltidene (måltida)
+59,måltid,meal,et måltid - måltidet - måltider (måltid) - måltidene (måltida)
+60,mandarin,mandarin,en mandarin - mandarinen - mandariner - mandarinene
+61,mandel,almonds, en mandel - mandelen - mandler - mandlene
+62,markjordbær,wild strawberry,et markjordbær - markjordbæret - markjordbær - markjordbærene (markjordbæra)
+63,mat,food,en mat - maten - mater - matene
+64,mel,flour, et mel - melet - mel - melene (mela)
+65,melk,milk,en/ei melk - melken (melka) - melker - melkene
+66,middag,dinner,en middag - middagen -  middager - middagene
+67,molte,cloudberry,en/ei molte - molten (molta) - molter - moltene
+68,oksekjøtt,beef,et oksekjøtt -  oksekjøttet - oksekjøtt - oksekjøttene (oksekjøtta)
+69,øl,beer,en øl - ølen - øler - ølene
+70,oliven,olive,en oliven - olivenen - olivener - olivenene
+71,oppskrift,recipe,en/ei oppskrift - oppskriften (oppskrifta) - oppskrifter - oppskriftene
+72,ost,cheese,en ost - osten - oster - ostene
+73,pære,pear,en/ei pære - pæren (pæra) - pærer - pærene
+74,pålegg ,topping; increase,et pålegg - pålegget - pålegg - påleggene (pålegga)
+75,pannekake,pancake,en/ei pannekake - pannekaken (pannekaka) - pannekaker - pannekakene
+76,paprika,pepper,en paprika - paprikaen - paprikaer - paprikaene
+77,peanøtt,peanut,en/ei peanøtt - peanøtten (peanøtta) - peanøtter - peanøttene
+78,pepper,pepper,en pepper - pepperen - peppere (peprer) - pepperne (peprene) 
+79,persille,parsley,en/ei persille - persillen (persilla) - persiller - persillene
+80,planter,plants,en/ei plante - planten (planta) - planter - plantene
+81,plomme,plum,en/ei plomme - plommen (plomma) - plommer - plommene
+82,pølse,sausage,en/ei pølse - pølsen (pølsa) - pølser - pølsene
+83,potet,potato,en potet - poteten - poteter - potetene
+84,råkost,vegetables and fruit,en råkost - råkosten - råkoster - råkostene
+85,reddik,radish,en reddik - reddiken - reddiker - reddikene
+86,reke,shrimp,en/ei reke - reken (reka) - reker - rekene
+87,ris,rice,en ris - risen - riser - risene
+88,rødbete,beet,en/ei rødbete - rødbeten (rødbeta) - rødbeter - rødbetene
+89,rømme,sour cream,en rømme - rømmen - rømmer - rømmene
+90,saft,juice, en/ei saft - saften (safta) - safter - saftene
+91,salat,salad,en salat - salaten - salater - salatene
+92,salt,salt,et salt - saltet - salter - saltene (salta)
+93,selleri,celery,en selleri - sellerien - sellerier - selleriene
+94,sitron,lemon,en sitron - sitronen - sitroner - sitronene
+95,sløseri,waste,et sløseri - sløseriet - sløserier (sløseri) - sløseriene (sløseria)
+96,slurk,gulp,en slurk - slurken - slurker - slurkene
+97,smør,butter,et smør - smøret - smør - smørene (smøra)
+98,smørbrød,sandwich, et smørbrød - smørbrødet - smørbrød - smørbrødene (smørbrøda)
+99,solbær,currant,et solbær - solbæret - solbær -solbærene (solbæra)
+100,sopp,mushroom,en sopp - soppen - sopper - soppene
+101,sprit,alcohol, en sprit - spriten - spriter - spritene
+102,squash,squash,en squash - squashen - squasher - squashene
+103,sukker,sugar,et sukker - sukkeret - sukkere (sukker) - sukkerne (sukkera)
+104,sukkertøy,candy,et sukkertøy - sukkertøyet - sukkertøyer (sukkertøy) - sukkertøyene (sukkertøya)
+105,suppe,soup,en/ei suppe - suppen (suppa) - supper - suppene
+106,svinekjøtt,pork,et svinekjøtt -  svinekjøttet - svinekjøtt - svinekjøttene (svinekjøtta)
+107,syltetøy,jam,et syltetøy - syltetøyet - syltetøyer (syltetøy) - syltetøyene (syltetøya)
+108,te,tea,en te - teen - teer - teene
+109,tomat,tomato,en tomat - tomaten - tomateк - tomatenу
+110,torsk,cod,en torsk - torsken - torsker - torskene
+111,tranebær,cranberry,et tranebær - tranebæret - tranebær - tranebærene (tranebæra)
+112,valnøtt,walnut,en/ei valnøtt - valnøtten (valnøtta) - valnøtter - valnøttene
+113,vårløk,spring onion,en vårløk - vårløken - vårløker - vårløkene

@@ -1,0 +1,48 @@
+﻿ID,N,E,C
+1,klær,clothes,klær - klærne
+2,hatt,hat,en hatt - hatten - hatter - hattene
+3,hodetørkle,kerchief,et hodetørkle - hodetørkleet - hodetørklær - hodetørklær
+4,lue,cap,en/ei lue - luen (lua) - luer - luene
+5,frakk,coat,en frakk  - frakken - frakker - frakkene
+6,jakke,jacket,en/ei jakke - jakken (jakka) - jakker - jakkene
+7,kappe,"overcoat, cloak",en/ei kappe - kappen (kappa) - kapper - kappene
+8,bluse,blouse,en/ei bluse -  blusen (blusa) -  bluser  - blusene
+9,skjorte,shirt,en/ei skjorte - skjorten (skjorta) - skjorter - skjortene
+10,kjole,dress,en kjole - kjolen - kjoler - kjolene
+11,skjørt,skirt,et skjørt - skjørtet - skjørter (skjørt) - skjørtene (skjørta)
+12,genser,sweater,en genser - genseren - gensere - genserne
+13,strikkegenser,knitted sweater,en strikkegenser - strikkegenseren - strikkegensere - strikkegenserne
+14,bukse,pants,en/ei bukse - buksen (buksa) - bukser - buksene
+15,strømpebukse,tights,en/ei strømpebukse - strømpebuksen (strømpebuksa) - strømpebukser - strømpebuksene
+16,strømpe,stocking,en/ei strømpe - strømpen (strømpa) - strømper - strømpene
+17,skjerf,scarf,et skjerf - skjerfet - skjerf - skjerfene (skjerfa)
+18,hanske,glove,en hanske - hansken - hansker - hanskene
+19,vott,mitten,en vott - votten - votter - vottene
+20,erme,sleeve,et erme - ermet - ermer - ermene (erma)
+21,nattøy,sleepwear,et natt-tøy - natt-tøyet - natt-tøyer - natt-tøyene (natt-tøya)
+22,undertøy,underwear,et undertøy - undertøyet - undertøyer - undertøyene (undertøya)
+23,singlet,singlet,en singlet - singleten - singleter - singletene
+24,underbukse,underpants,en/ei underbukse - underbuksen (underbuksa) - underbukser - underbuksene
+25,støvlett,boot,en støvlett - støvletten - støvletter - støvlettene
+26,sko,shoe,en sko - skoen - sko - skoene (skoa)
+27,sandal,sandal,en sandal - sandalen - sandaler - sandalene
+28,tøffel,slipper,en tøffel - tøffelen - tøfler - tøflene
+29,sokk,sock,en sokk - sokken - sokker - sokkene
+30,lisse,lace,en/ei lisse - lissen (lissa) - lisser - lissene
+31,paraply,umbrella,en paraply - paraplyen - paraplyer - paraplyene
+32,håndkle,towel,et håndkle - håndkleet - håndklær - håndklærne
+33,sekk,bag,en sekk - sekken - sekker - sekkene
+34,klede,cloth,et klede - kledet - kleder - kledene (kleda)
+35,badedrakt,swimsuit,en/ei badedrakt - badedrakten (badedrakta) - badedrakter - badedraktene
+36,knapp,button,en knapp - knappen - knapper - knappene
+37,hette,hood,en/ei hette - hetten (hetta) - hetter -hettene
+38,glidelås,zipper,en/et glidelås - glidelåsen (glidelåset) - glidelåser (glidelås) - glidelåsene (glidelåsa)
+39,bomull,cotton,en/ei bomull - bomullen (bomulla) - bomuller - bomullene
+40,ull,wool,en/ei ull - ullen (ulla) - uller - ullene
+41,silke,silk,en silke - silken - silker - silkene
+42,lin,linen,et lin - linet - lin - linene (lina)
+43,hæl,heel,en hæl - hælen - hæler - hælene
+44,belte,belt,et belte - beltet - belter - beltene (belta)
+45,lær,leather,et lær - læret - lær - lærene (læra)
+46,pels,fur,en pels - pelsen - pelser - pelsene
+47,lommebok,wallet,en/ei lommebok - lommeboken (lommeboka) - lommebøker - lommebøkene

@@ -1,0 +1,114 @@
+﻿ID,N,E,C
+1,avis,newspaper,en/ei avis - avisen (avisa) - aviser - avisene
+2,bad,bathroom,et bad - badet - bad - badene (bada)
+3,bærbar datamaskin,notebook (laptop),en datamaskin - datamaskinen - datamaskiner - datamaskinene
+4,bakgård,backyard,en bakgård - bakgården - bakgårder - bakgårdene
+5,balkong,balcony,en balkong - balkongen - balkonger - balkongene
+6,bås,"stall, box",en bås - båsen - båser - båsene
+7,beholder,container,en beholder - beholderen - beholdere - beholderne
+8,bilde,picture,et bilde - bildet -  bilder - bildene (bilda)
+9,blekk,ink,et blekk - blekket - blekk - blekkene (blekka)
+10,blyant,pencil,en blyant - blyanten - blyanter - blyantene
+11,bofellesskap,shared house,et bofellesskap - bofellesskapet - bofellesskaper (bofellesskap) - bofellesskapene (bofellesskapa)
+12,bolle,bowl,en bowl - bowlen - bowler - bowlene
+13,bord,table,et bord - bordet - border (bord) - bordene (borda)
+14,børste,brush,en børste - børsten - børster - børstene
+15,bøtte,bucket,en/ei bøtte - bøtten (bøtta) - bøtter - bøttene
+16,brev,letter,et brev - brevet - brever (brev) - brevene (breva)
+17,do,toilet,en/et do - doen (doet) - doer (do) - doene (doa)
+18,dør,door,en/ei dør - døren (døra) - dører - dørene
+19,eske,box,en/ei eske - esken (eska) - esker - eskene
+20,etasje,storey; floor,en etasje - etasjen - etasjer - etasjene
+21,fat,dish ,et fat - fatet - fater (fat) - fatene (fata)
+22,fjernkontroll,remote control,en fjernkontroll - fjernkontrollen - fjernkontroller - fjernkontrollene
+23,flaske,bottle,en/ei flaske - flasken (flaska) - flasker - flaskene
+24,gaffel,fork,en gaffel - gaffelen - gafler - gaflene
+25,gang,corridor,en gang - gangen - ganger - gangene
+26,garderobe,wardrobe,en garderobe - garderoben - garderober - garderobene
+27,gardin,curtain,"en/ei/et gardin - gardinen (gardina, gardinet) - gardiner (gardin) - gardinene (gardina)"
+28,glass,glass,et glass - glasset - glass - glassene (glassa)
+29,gryte,stewpan,en/ei gryte - gryten (gryta) - gryter - grytene
+30,gryterett,casserole,en gryterett - gryteretten - gryteretter - gryterettene
+31,gulv,floor,et gulv - gulvet - gulv - gulvene (gulva)
+32,gulvteppe,carpet,et gulvteppe - gulvteppet - gulvtepper - gulvteppene (gulvteppa)
+33,hus,house,et hus - huset - hus - husene (husa)
+34,hylle,shelf,en/ei hylle - hyllen (hylla) - hyller - hyllene
+35,ildsted,fireplace,et ildsted - ildstedet - ildsteder - ildstedene
+36,inngang,entrance,en inngang - inngangen - innganger - inngangene
+37,kabinett,cabinet,et kabinett -  kabinettet -  kabinetter (kabinett) - kabinettene (kabinetta)
+38,kaffetrakter,coffee machine,en kaffetrakter - kaffetrakteren - kaffetraktere - kaffetrakterne 
+39,kiste,"chest, trunk",en/ei kiste - kisten (kista) - kister - kistene
+40,kjeller,cellar,en kjeller - kjelleren - kjellere - kjellerne
+41,kjelleretasje,basement,en kjelleretasje - kjelleretasjen - kjelleretasjer - kjelleretasjene
+42,kjøkken,kitchen,et kjøkken - kjøkkenet - kjøkkener (kjøkken) - kjøkkenene (kjøkkena)
+43,kjøleskap,refrigerator,et kjøleskap - kjøleskapet - kjøleskap -kjøleskapene (kjøleskapa)
+44,kniv,knife,en kniv - kniven - kniver - knivene
+45,komfyr,stove (top),en komfyr - komfyren - komfyrer - komfyrene
+46,kopp,cup,en kopp - koppen - kopper - koppene
+47,kork,cork,en kork - korken - korker - korkene
+48,kran,"crane, water tap",en/ei kran - kranen (krana) - kraner - kranene
+49,krem,cream,en krem - kremen - kremer - kremene
+50,krukke,jar,en/ei krukke - krukken (krukka) - krukker - krukkene
+51,kurv,basket,en kurv - kurven - kurver - kurvene
+52,laken,sheet,et laken - lakenet - lakener (laken) - lakenene (lakena)
+53,lampe,lamp,en/ei lampe - lampen (lampa) - lamper - lampene
+54,leilighet,flat,en/ei leilighet - leiligheten (leiligheta) - leiligheter - leilighetene
+55,lekkasje,leakage,en lekkasje - lekkasjen - lekkasjer - lekkasjene
+56,lenestol,armchair,en lenestol - lenestolen - lenestoler - lenestolen
+57,loft,attic,et loft - loftet - loft - loftene (lofta)
+58,lokk,lid,et lokk - lokket - lokk - lokkene (lokka)
+59,lysekrone,chandelier,en/ei lysekrone - lysekronen (lysekrona) - lysekroner - lysekronene
+60,madrass,mattress,en madrass - madrassen - madrasser - madrassene
+61,møbel,furniture,et møbel - møblet - møbler (møbel) - møblene (møbla)
+62,nål,needle,en/ei nål - nålen (nåla) - nåler - nålene
+63,oppvaskkum,sink,en oppvaskkum - oppvaskkummen - oppvaskkummer - oppvaskkummene
+64,oppvaskmaskin,dishwasher,en oppvaskmaskin - oppvaskmaskinen - oppvaskmaskiner - oppvaskmaskinene
+65,øse,ladle (soup),en/ei øse - øsen (øsa) - øser - øsene
+66,ovn,stove (baking),en ovn - ovnen - ovner - ovnene
+67,panne,pan,en/ei panne - pannen (panna) - panner - pannene
+68,papir,paper,et papir - papiret - papirer (papir) - papirene (papira)
+69,peis,fireplace,en peis - peisen - peiser - peisene
+70,penn,pen,en penn - pennen - penner - pennene
+71,potte,pot,en/ei potte - potten (potta) - potter - pottene
+72,pult,desk,en pult - pulten - pulter - pultene
+73,pute,pillow,en/ei pute - puten (puta) - puter - putene
+74,putevar,pillowcase,et putevar - putevaret - putevar - putevarene (putevara)
+75,rivjern,grater,et rivjern - rivjernet - rivjern - rivjernene (rivjernа)
+76,rom,room,et rom - rommet - rom - rommene (romma)
+77,rør,pipe,et rør - røret - rør - rørene (røra)
+78,saks,scissors,en/ei saks - saksen (saksa) - sakser - saksene
+79,såpe,soap,en/ei såpe - såpen (såpa) - såper - såpene
+80,seng,bed,en/ei seng - sengen (senga) - senger - sengene
+81,sjampo,shampoo,en sjampo - sjampoen - sjampoer - sjampoene
+82,skanner,skanner,en skanner - skanneren - skannere - skannerne
+83,skje,spoon,en/ei skje - skjeen (skjea) - skjeer - skjeene
+84,skjerm,screen,en skjerm - skjermen - skjermer - skjermene
+85,skorstein,chimney,en skorstein - skorsteinen - skorsteiner - skorsteinene
+86,skrivepult,writing desk,en skrivepult - skrivepulten - skrivepulter - skrivepultene
+87,skriver,printer,en skriver - skriveren - skrivere - skriverne
+88,skum,foam,et skum - skummet - skum - skummene (skumma)
+89,soverom,bedroom,et soverom - soverommet - soverom - soverommene (soveromma)
+90,spade,showel,en spade - spaden - spader - spadene -
+91,speil,mirror,et speil - speilet - speil - speilene (speila)
+92,stige,ladder,en stige - stigen - stiger - stigene
+93,stol,chair,en stol - stolen - stoler - stolen
+94,støvsuger,vacuum cleaner,en støvsuger - støvsugeren - støvsugere - støvsugerne
+95,stue,sitting‑room,en/ei stue - stuen (stua) - stuer - stuene
+96,tak,"roof, ceiling",et tak - taket - tak - takene (taka)
+97,tallerken,plate,en tallerken - tallerkenen - tallerkener - tallerkenene
+98,tannbørste,toothbrush,en tannbørste - tannbørsten - tannbørster - tannbørstene
+99,tannkrem,toothpaste,en tannkrem - tannkremen - tannkremer - tannkremene
+100,tavle,blackboard,en/ei tavle - tavlen (tavla) - tavler - tavlene
+101,telefon,telephone,en telefon - telefonen - telefoner - telefonene
+102,televisjon,television,en televisjon - televisjonen - televisjoner - televisjonene
+103,teppe,rug,et teppe - teppet - tepper - teppene (teppa)
+104,tidsskrift,journal,et tidsskrift - tidsskriftet - tidsskrifter (tidsskrift) - tidsskriftene (tidsskrifta)
+105,toalett,toilet,et toalett - toalettet - toaletter (toalett) - toalettene (toaletta)
+106,tråd,thread,en tråd - tråden - tråder - trådene
+107,trapp,stairs,en/ei trapp - trappen (trappa) - trapper - trappene
+108,ullteppe,blanket,et ullteppe - ullteppet - ulltepper - ullteppene (ullteppa)
+109,utgang,exit,en utgang - utgangen - utganger - utgangene
+110,vase,vase,en vase - vasen - vaser - vasene
+111,vaskemaskin,washing machine,en vaskemaskin - vaskemaskinen - vaskemaskiner - vaskemaskinene
+112,vegg,wall,en vegg - veggen - vegger - veggene 
+113,vindu,window,et vindu - vinduet - vinduer (vindu) - vinduene (vindua)

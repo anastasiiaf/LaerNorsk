@@ -1,0 +1,590 @@
+﻿ID,N,E,C
+1,abonnere på,subscribe to,abonnerer - abonnerte - har abonnert
+2,adlyde,obey,adlyder - adlød - har adlydt
+3,anbefale,recommend,anbefaler - anbefalte - har anbefalt
+4,ane,"suspect, guess",aner - ante - har ant
+5,anklage,accuse,anklager - anklaget - har anklaget
+6,anmelde,report,anmelder - anmeldte - har anmeldt
+7,ansette,employ,ansetter - ansatte - har ansatt
+8,åpne,open,åpner - åpnet - har åpnet
+9,arbeide,work,arbeider - arbeidet - har arbeidet
+10,avbryte,interrupt,avbryter - avbrøt (avbrøyt) - har avbrutt
+11,avlyse,cancel; call off,avlyser - avlyste - har avlyst
+12,avslå,"repulse, refuse, reject",avslår - avslo - har avslått
+13,avstå,"give up, renounce",avstår - avstod - har avstatt
+14,bade,bath,bader - badet - har badet
+15,bære,carry; bear; support,bærer - bar - har båret
+16,bake,bake,baker - bakte - har bakt
+17,banke,"beat, hit",banker - banket - har banket
+18,barbere,shave,barberer - barberte - har barbert
+19,be,beg; ask politely,ber - ba (bad) - har bedt
+20,bearbeide,adapt (smth); process,bearbeider - bearbeidet - har bearbeidet
+21,bedøve,drug,bedøver - bedøvet - har bedøvet
+22,bedøve,anaesthetise,bedøver - bedøvde - har bedøvd
+23,bedra,cheat (smb); deceive,bedrar - bedro - har bedratt
+24,begynne,begin,begynner - begynte - har begynt
+25,behandle,handle; treat,behandler - behandlet - har behandlet
+26,beherske,master; control,behersker - behersket - har behersket
+27,beite,"graze, pasture",beiter - beitet - har beitet
+28,bekymre,worry; trouble,bekymrer - bekymret - har bekymret
+29,belønne,reward,belønner - belønnet - har belønnet
+30,beskrive,describe,beskriver - beskrev - har beskrevet
+31,beskytte,protect,beskytter - beskyttet - har beskyttet
+32,beslå,mount (smth),beslår - beslo - har beslått
+33,besøke,visit,besøker - besøkte - har besøkt
+34,bestå,"last, endure; pass (exam)",består - besto - har bestått
+35,bestemme,decide,bestemmer - bestemte - har bestemt
+36,bestige,"mount, climb",bestiger - besteg - har besteget
+37,bestille,"order; book, reserve",bestiller - bestilte - har bestilt
+38,beta,fascinate,betar - betok - har betatt
+39,betale,pay,betaler - betalte - har betalt
+40,bety,"mean (signify, matter)",betyr - betydde - har betydd
+41,bevege,move; touch,beveger - bevegde (beveget) - har bevegd (beveget)
+42,bidra,contribute,bidrar - bidro - har bidratt
+43,binde,bind,binder - bandt - har bundet
+44,bite,bite,biter - bet - har bit
+45,bjeffe,"bark, yap",bjeffer - bjeffet - har bjeffet
+46,blande,"mix, blend",blander - blandet - har blandet
+47,blåse,blow,blåser - blåste - har blåst
+48,bli,become (be),blir - ble - har blitt
+49,blø,bleed,blør - blødde - har blødd
+50,bo,live (be resident),bor - bodde - har bodd
+51,bomme,miss (the mark),bommer - bommet - har bommet
+52,bøye,bend,bøyer - bøyet (bøyde) - har bøyet (bøyd)
+53,brekke,break,brekker - brakk - har brukket
+54,brenne,burn (smth),brenner - brente - har brent
+55,brenne,burn (be on fire),brenner - brant - har brent
+56,bringe,bring,bringer - brakte - har brakt
+57,briste,"burst, crack",brister - brast - har bristet (brustet)
+58,bruke,use,bruker - brukte - har brukt
+59,bry,"bother, trouble",bryr - brydde - har brydd
+60,bryte,"break, violate",bryter - brøt - har brutt
+61,bukke,bow,bukker - bukket - har bukket
+62,burde,ought to,bør - burde - har burdet
+63,by,"offer, bid",byr - bød - har budt (bydd)
+64,bygge,build,bygger - bygde - har byggd
+65,bytte,"change, exchange, swap",bytter - byttet - har byttet
+66,dandere,arrange; shape,danderer - danderte - har dandert
+67,danse,dance,danser - danset - har danset
+68,dekke,cover; prepare table,dekker - dekket - har dekket
+69,dele,divide; share,deler - delte - har delt
+70,demme,repress; restrain,demmer - demmet - har demmet
+71,demokratisere,democratize,demokratiserer - demokratiserte - har demokratisert
+72,dette,fall,detter - datt - har dettet
+73,diskutere,discuss,diskuterer - diskuterte - har diskutert
+74,dø,"die, pass away",dør - døde - har dødd
+75,dra,"go, leave; move; pull, drag",drar - dro (drog) - har dratt (dradd)
+76,drepe,kill,dreper - drepte - har drept
+77,drikke,drink,drikker - drakk - har drukket
+78,drite,shit,driter - dret - har dritet
+79,drive,"drive, operate (enterprise)",driver - drev (dreiv) - har drevet
+80,drømme,dream,drømmer - drømte - har drømt
+81,drøye,drag on,drøyer - drøyde - har drøyd
+82,drukne,drown,drukner - druknet - har druknet
+83,dukke,dive; emerge,dukker - dukket - har dukket
+84,dumpe,dump,dumper - dumpet - har dumpet
+85,dusje,shower,dusjer - dusjet - har dusjet
+86,dyrke,cultivate,dyrker - dyrket - har dyrket
+87,dytte,push; shove,dytter - dyttet - har dyttet
+88,egne seg,"fit, be suitable",egner - egnet - har egnet
+89,eie,"own, posess",eier - eide - har eid
+90,ese,rise; ferment,eser - este - har est
+91,etablere,establish,etablerer - etablerte - har etablert
+92,ete,eat greedily,eter - åt - har ett
+93,evangelisere,evangelize,evangeliserer - evangeliserte - har evangelisert
+94,få,"get, receive",får - fikk - har fått
+95,falle,fall,faller - falt - har falt
+96,fare,"drive, rush, travel",farer - for - har fart
+97,feie,sweep,feier - feiet (feide) - har feiet (feid)
+98,feire,celebrate,feirer - feiret - har feiret
+99,finne,find,finner - fant - har funnet
+100,finnes,exist,finnes - fantes - har funnes
+101,fiske,fish,fisker - fisket - har fisket
+102,fleipe,joke ,fleiper - fleipte - har fleipt
+103,flire,grin,flirer - flirte - har flirt
+104,fly,fly,flyr - fløy - har fløyet (flydd)
+105,flykte,flee,flykter - flyktet - har flyktet
+106,flyte,float,flyter - fløt - har flytt
+107,flytte,move; relocate,flytter - flyttet - har flyttet
+108,føde,"bear, give birth to",føder - fødte - har født
+109,føle,feel,føler - følte - har følt
+110,følge,follow,følger - fulgte - har fulgt
+111,føne,blow-dry,føner - fønte - har fønt
+112,forandre,change ,forandrer - forandret - har forandret
+113,forbanne,swear at; curse,forbanner - forbannet - har forbannet
+114,forbedre,improve,forbedrer - forbedret (forbedra) - har forbedret  (forbedra) 
+115,forberede,make preparations for,forbereder - forberedte - har forberedt
+116,forbli,"remain, stay",forblir - forble - har forblitt
+117,føre,carry; transport; lead,fører - førte - har ført
+118,foregå,"go on, take place",foregår - foregikk - har foregått
+119,foregi,pretend,foregir - forega - har foregitt
+120,forelske,fall in love with,forelsker - forelsket - har forelsket
+121,forene,unite,forener - forente - har forent
+122,foreslå,"propose, suggest",foreslår - foreslo - har foreslått
+123,forestille,represent,forestiller - forestilte - har forestilt
+124,foreta,undertake,foretar - foretok - har foretatt
+125,foretrekke,prefer ,foretrekker - foretrakk - har foretrukket
+126,forgripe,use violence against,forgriper - forgrep - har forgrepet
+127,forkjøle,catch a cold,forkjøler - forkjølte - har forkjølt
+128,forklare,explain,forklarer - forklarte - har forklart
+129,forlate,"leave, forgive",forlater - forlot - har forlatt
+130,forlike,"reconcile, compromise",forliker - forlikte - har forlikt
+131,fornærme,"offend, insult",fornærmer - fornærmet - har fornærmet
+132,fornye,renew,fornyer - fornyet - har fornyet
+133,forsikre,assure; insure,forsikrer - forsikret - har forsikret
+134,forsove seg,oversleep,forsover - forsov - har forsovet
+135,forstå,understand,forstår - forstod - har forstått
+136,forstyrre,disturb,forstyrrer - forstyrret - har forstyrret
+137,forsvare,defend,forsvarer - forsvarte - har forsvart
+138,forsvinne,disappear,forsvinner - forsvant - har forsvunnet
+139,fortelle,tell,forteller - fortalte - har fortalt
+140,fortsette,continue,fortsetter - fortsatte - har fortsatt
+141,forvente,expect,forventer - forventet - har forventet
+142,forverre,make worse,forverrer - forverret - har forverret
+143,fosse,gush; foam,fosser - fosset - har fosset
+144,fotografere,photograph,fotograferer - fotograferte - har fotografert
+145,frelse,"save, convert (relig)",frelser - frelste - har frelst
+146,fri,propose (marriage),frir - fridde - har fridd
+147,friste,tempt,frister - fristet - har fristet
+148,fryse,"freeze, be cold",fryser - frøs - har frosset
+149,fullføre,"complete, finish",fullfører - fullførte - har fullført
+150,fungere,"work, function",fungerer - fungerte - har fungert
+151,fyke,drift,fyker - føk - har føket
+152,fylle,fill; stuff,fyller - fylte - har fylt
+153,gå,go; walk; leave,går - gikk - har gått
+154,gale,crow,galer - gol - har galt
+155,gape,"gape, yawn; yell",gaper - gapte - har gapt
+156,gi,give,gir - ga (gav) - har gitt
+157,gidde,to bother to do,gidder - gadd - har giddet
+158,gifte,marry,gifter - giftet - har giftet
+159,gjelde,to be worth; concern,gjelder - gjaldt - har gjeldt
+160,gjemme,"hide, conceal",gjemmer - gjemte - har gjemt
+161,gjennomføre,carry through,gjennomfører - gjennomførte - har gjennomført
+162,gjenta,repeat,gjentar - gjentok - har gjentatt
+163,gjespe,yawn,gjesper - gjespet - har gjespet
+164,gjette,guess,gjetter - gjettet - har gjettet
+165,gjøre,do,gjør - gjorde - har gjort
+166,glede seg,"please, delight; look forward",gleder - gledet - har gledet
+167,glemme,forget; omit,glemmer - glemte - har glemt
+168,gli,"glide, slip, slide",glir - gled (glei) - har glidd
+169,glippe,slip away; blink,glipper - glapp - har glippet
+170,gnage,"gnaw, nibble",gnager - gnog - har gnaget (gnagd)
+171,gnåle,"nag, fuss",gnåler - gnålte - har gnålt
+172,gni,rub,gnir - gned - har gnidd
+173,gråte,cry (weep),gråter - gråt - har grått
+174,gratulere,congratulate,gratulerer - gratulerte - har gratulert
+175,grave,dig,graver - grov - har gravd
+176,gre,comb,grer - gredde - har gredd
+177,greie,"manage, cope with",greier - greide - har greid
+178,grense,border,grenser - grenset - har grenset
+179,grille,grill,griller - grillet - har grillet
+180,grine,cry; grimace; be grumpy,griner - grein - har grint
+181,gripe,"catch, seize, grab",griper - greip (grep) - har grepet
+182,grue seg ,be nervous; dread,gruer - grudde (gruet) - har grudd (gruet)
+183,gyse,"shudder, shiver",gyser - gjøs - har gyst
+184,gyte,"spawn, breed",gyter - gjøt - har gytt
+185,gyve,fly,gyver - gjøv - har gjøvet
+186,ha,have,har - hadde - har hatt
+187,hamstre,"hoard, stock up",hamstrer - hamstret - har hamstret
+188,handle,deal; shop; act,handler - handlet - har handlet
+189,håpe,hope,håper - håpet - har håpet
+190,havne,end up,havner - havnet - har havnet
+191,hellige,"hallow, sanctify",helliger - helliget - har helliget
+192,hende,"happen, occur",hender - hendte - har hendt
+193,henge,hang (be suspended),henger - hang - har hengt
+194,henge,hang (suspend),henger - hengte - har hengt
+195,hente,"fetch, collect; go for",henter - hentet - har hentet
+196,henvende seg,apply (in person),henvender - henvendte - har henvendt
+197,hete,be called,heter - het - har hett
+198,hilse,greet,hilser - hilste - har hilst
+199,hindre,prevent,hindrer - hindret - har hindret
+200,hive,heave,hiver - hev - har hivd (hevet)
+201,hjelpe,help,hjelper - hjalp - har hjulpet
+202,hogge,"cut, chop",hogger - hogg - har hogd
+203,holde,hold,holder - holdt - har holdt
+204,hoppe,"jump, leap",hopper - hoppet - har hoppet
+205,høre,hear,hører - hørte - har hørt
+206,hoste,cough,hoster - hostet - har hostet
+207,høste,harvest,høster - høstet - har høstet
+208,huske,remember,husker - husket - har husket
+209,hvile,rest,hviler - hvilte - har hvilt
+210,hviske,whisper,hvisker - hvisket - har hvisket
+211,hygge,comfort; enjoy oneself,hygger - hygget - har hygget
+212,innebære,"involve, imply",innebærer - innebar - har innebåret
+213,inneholde,contain ,inneholder - inneholdt - har inneholdt
+214,innføre,import; bring in,innfører - innførte - har innført
+215,innhente,"overtake; obtain, get",innhenter - innhentet - har innhentet
+216,invadere,invade,invaderer - invaderte - har invadert
+217,invitere,invite,inviterer - inviterte - har invitert
+218,jogge,jog,jogger - jogget - har jogget
+219,jukse,"cheat, fiddle",jukser - jukset - har jukset
+220,kalkulere,calculate,kalkulerer - kalkulerte - har kalkulert
+221,kaste,throw,kaster - kastet - har kastet
+222,kikke,"glance, look, peep",kikker-kikket-har kikket
+223,kjede,bore,kjeder - kjedet - har kjedet
+224,kjempe,"fight, struggle",kjemper - kjempet - har kjempet
+225,kjenne,"know (smb/smth), feel",kjenner - kjente - har kjent
+226,kjøpe,buy,kjøper - kjøpte - har kjøpt
+227,kjøre,drive,kjører - kjørte - har kjørt
+228,klappe,clap,klapper - klappet - har klappet
+229,klare,manage,klarer - klarte - har klart
+230,klatre,climb,klatrer - klatret - har klatret
+231,kle,dress,kler - kledde - har kledd
+232,klinge,"sound, ring",klinger - klang - har klinget
+233,klippe,cut,klipper - klipte - har klipt
+234,klype,pinch,klyper - kløp - har kløpet
+235,klyve,climb,klyver - kløv - har kløvet
+236,knekke,"crack, snap",knekker - knakk - har knekt (knekket)
+237,knipe,pinch; catch; press,kniper - knep (kneip) - har knepet
+238,knuse,"crush, smash",knuser - knuste - har knust
+239,knyte,tie,"knyter - knytte (knytet, knøt) - har knytt"
+240,koble,"couple, connect",kobler - koblet - har koblet
+241,kødde,fool around,kødder - køddet - har køddet
+242,koke,cook; boil,koker - kokte - har kokt
+243,komme,come,kommer - kom - har kommet
+244,kondolere,express sympathy,kondolerer - kondolerte - har kondolert
+245,kontaktere,contact,kontakterer - kontakterte - har kontaktert
+246,kontrollere,control,kontrollerer - kontrollerte - kontrollert
+247,kopiere,copy,kopierer - kopierte - har kopiert
+248,korrigere,correct,korrigerer - korrigerte - har korrigert
+249,kose seg,enjoy yourself,koser - koste - har kost
+250,koste,cost; sweep,koster - kostet - har kostet
+251,krangle,quarrel,krangler - kranglet - har kranglet
+252,kroke,bend,kroker - kroket - har kroket
+253,krype,"creep, crawl",kryper - krøp - har krøpet
+254,kunne,can,kan - kunne - har kunnet
+255,kutte,cut ,kutter - kuttet - har kuttet
+256,kutte,cut,kutter - kuttet - har kuttet
+257,kvele,"choke, strangle",kveler - kvalte - har kvalt
+258,kverne,turn around; grind,kverner - kvernet - har kvernet
+259,la,let ,lar - lot - har latt
+260,lære,teach; learn,lærer - lærte - har lært
+261,lage,make; produce,lager - laget - har laget
+262,låne,borrow,låner - lånte - har lånt
+263,låse,lock,låser - låste - har låst
+264,late,"seem, appear; idle, laze",later - lot - har latt
+265,låte,"sound, ring",låter - låt - har lått
+266,le,laugh,ler - lo - har ledd
+267,legge,"put, lay",legger - la - har lagt
+268,legge merke,realize,legger - la - har lagt
+269,leie,rent; hire,leier - leide - har leid
+270,leke,play (with smth),leker - lekte - har lekt
+271,lengte,long (for),lengter - lengtet - har lengtet
+272,lese,read,leser - leste - har lest
+273,lete,"look, search",leter - lette - har lett
+274,leve,live (be alive),lever - levde - har levd
+275,levere,"hand over, give up; deliver",leverer - leverte - har levert
+276,lide,suffer,lider - led - har lidd
+277,ligge,lie,ligger - lå - har ligget
+278,ligne,resemble,ligner - lignet - har lignet
+279,like,like,liker - likte - har likt
+280,løfte,"lift, raise",løfter - løftet - har løftet
+281,lokke,lure,lokker - lokket - har lokket
+282,løpe,run,løper - løp - har løpt
+283,løse,solve,løser - løste - har løst
+284,love,praise; promise,lover - lovet - har lovet
+285,lufte,air,lufter - luftet - har luftet
+286,lukte,smell,lukter - luktet - har luktet
+287,lure,deceive,lurer - lurte - har lurt
+288,lyde,sound,lyder - lød - har lydt
+289,lyge,tell a lie,lyger - løy - har løyet
+290,lytte,listen,lytter - lyttet - har lyttet
+291,lyve,tell a lie,lyver - løy - har løyet
+292,målbinde,silence,målbinder - målbandt - har målbundet
+293,måle,measure,måler - målte - har målt
+294,mase,"bother, pester; crush",maser - maste - har mast
+295,måtte,must,må - måtte - har måttet
+296,melde,"report, notify",melder - meldte - har meldt
+297,merke,"mark, label",merker - merket - har merket
+298,minke,"decrease, shrink",minker - minket - har minket
+299,miste,"lose; miss, be late",mister - mistet - har mistet
+300,mistenke,suspect,mistenker - mistenkte - har mistenkt
+301,møte,"meet, run across",møter - møtte - har møtt
+302,motta,accept; receive,mottar - mottok - har mottatt
+303,nærme,bring near,nærmer - nærmet - har nærmet
+304,nekte,"deny, refuse",nekter - nektet - har nektet
+305,nikke,nod,nikker - nikket - har nikket
+306,nøle,hesitate,nøler - nølte - har nølt
+307,nyse,sneeze,nyser - nøs - har nyst
+308,nyte,enjoy; consume,nyter - nøt (nøyt) - har nytt
+309,ofre,sacrifice,ofrer - ofret - har ofret
+310,øke,increase,øker - økte - har økt
+311,omarbeide,revise,omarbeider - omarbeidet - har omarbeidet
+312,ombestemme seg,change mind,ombestemmer - ombestemte - har ombestemt
+313,omgi,surround,omgir - omga - har omgitt
+314,ønske,"desire, wish",ønsker - ønsket - har ønsket
+315,oppdage,discover; reveal,oppdager - oppdaget - har oppdaget
+316,oppdra,"bring up, raise",oppdrar - oppdro - har oppdratt
+317,oppføre,"build, construct; perform",oppfører - oppførte - har oppført
+318,oppleve,experience,opplever - opplevde - har opplevd
+319,oppnå,"obtain, achieve",oppnår - oppnådde - har oppnådd
+320,opprette,"establish, found",oppretter - opprettet - har opprettet
+321,oppsøke,look up,oppsøker - oppsøkte - har oppsøkt
+322,oppstå,come into being,oppstår - oppstod (oppsto) - har oppstått
+323,ordne,fix; orginize,ordner - ordnet - har ordnet
+324,orientere,orient,orienterer - orienterte - har orientert
+325,orke,be able to,orker - orket - har orket
+326,orme seg,wriggle,ormer - ormet - har ormet
+327,øve,practice; exercise,øver - øvde - har øvd
+328,overdrive,exaggerate,overdriver - overdrev - har overdrevet
+329,overleve,survive,overlever - overlevde - har overlevd
+330,overnatte,spend the night,overnatter - overnattet - har overnattet
+331,overrumple,take by surprise,overrumpler - overrumplet - har overrumplet
+332,oversette,translate,oversetter - oversatte - har oversatt
+333,overskrive,sign,overskriver - overskrev - overskrevet
+334,overta ,take over,overtar - overtok - har overtatt
+335,overtale,persuade,overtaler - overtalte - har overtalt
+336,pågripe,arrest,"pågriper - pågrep (pågreip, pågripet) - har pågrepet (pågripet)"
+337,pakke,pack,pakker - pakket - har pakket
+338,parkere,park,parkerer - parkerte - har parkert
+339,passe,suit (fit well),passer - passet - har passet
+340,passe på,"look after, take care of",passer på - passet på - har passet på
+341,passere,pass by,passerer - passerte - har passert
+342,påvirke,"affect, influence",påvirker - påvirket - har påvirket
+343,peile,take a bearing; look after,peiler - peilet (peilte) - har peilet (peilt)
+344,peke,point,peker - pekte - har pekt
+345,pipe,"wheeze, peep; chirp",piper - pep (peip) - har pepet
+346,pleie,use to; nurse,pleier - pleide - har pleid
+347,plombere,stop; seal,plomberer - plomberte - har plombert
+348,plystre,whistle,plystrer - plystret - har plystret
+349,prate,"talk, chat",prater - pratet - har pratet
+350,preke,preach,preker - prekte - har prekt
+351,prisgi,give up,prisgir - prisga - har prisgitt
+352,prøve,"try, test",prøver - prøvde - har prøvd
+353,pusse,"clean, polish",pusser - pusset - har pusset
+354,puste,breathe,puster - pustet - har pustet
+355,putte,put,putter - puttet - har puttet
+356,pynte,decorate,pynter - pyntet - har pyntet
+357,råde,recommend,råder - rådet (rådde) - har rådet (rådd)
+358,ramle,"rumble, rattle",ramler - ramlet - har ramlet
+359,ramme,strike; overtake; affect,rammer - rammet - har rammet
+360,rane,rob,raner - ranet (rante) - har ranet (rant)
+361,råtne,"rot, decay",råtner - råtnet - har råtnet
+362,regne,"rain; estimate, calculate",regner - regnet - har regnet
+363,reise,travel; raise,reiser - reiste - har reist
+364,reke,"loiter, drift, roam",reker - rekte - har rekt
+365,rekke,"reach, catch (transport)",rekker - rakk - har rukket
+366,rekke,reach,rekker - rakk - har rukket
+367,rekommandere,register,rekommanderer - rekommanderte - har rekommandert
+368,renne,"run, flow",renner - rant - har rent
+369,rense,"clean, purify",renser - renset - har renset
+370,reparere,repair,reparerer - reparerte - har reparert
+371,repetere,"repeat, revise",repeterer - repeterte - har repetert
+372,representere,represent,representerer - representerte - har representert
+373,rette,"straighten, align; correct",retter - rettet - har rettet
+374,ri,ride,rir - red (reid) - har ridd
+375,ringe,ring,ringer - ringte - har ringt
+376,rise,"birch, flog",riser - riste - har rist
+377,rive,tear; grate,river - rev - har revet
+378,ro,row (boat),ror - rodde - har rodd
+379,rømme,run away,rømmer - rømte - har rømt
+380,rope,"call, shout",roper - ropte - har ropt
+381,røre,"touch; move, stir",rører - rørte - har rørt
+382,røske,tear,røsker - røsket - har røsket
+383,rote,make a mess; take root,roter - rotet - har rotet
+384,røyke,smoke,røyker - røykte - har røykt
+385,ruske,"pull, shake",rusker - rusket - har rusket
+386,rutte med,"work with, to make do on",rutter - ruttet - har ruttet
+387,rydde,"clear, tidy",rydder - ryddet - har ryddet
+388,rydde av ,"clear away, remove",rydder av - ryddet av - har ryddet av
+389,ryke,smoke,ryker - røk - har røket
+390,sage,saw,sager - saget (sagde) - har saget (sagd)
+391,samarbeide,work together,samarbeider - samarbeidet - har samarbeidet
+392,samle,"collect, gather",samler - samlet - har samlet
+393,sammenligne,compare,sammenligner - sammenlignet - har sammenlignet
+394,savne,miss,savner - savnet - har savnet
+395,se,"see, look",ser - så - har sett
+396,selge,sell,selger - solgte - har solgt
+397,sende,send,sender - sendte - har sendt
+398,servere,serve ,serverer - serverte - har servert
+399,sette,"place, put, set",setter - satte - har satt
+400,si ,say,sier - sa - har sagt
+401,sige,"seep, ooze",siger - seg (seig) - har seget
+402,sikre,secure,sikrer - sikret - har sikret
+403,sikte,aim,sikter - siktet - har siktet
+404,sitte,sit,sitter - satt - har sittet
+405,sjekke,check,sjekker - sjekket - har sjekket
+406,skaffe,"get hold of, obtain",skaffer - skaffet - har skaffet
+407,skåne,spare,skåner - skånet - har skånet
+408,skape,"create, form",skaper - skapte - har skapt
+409,skifte,"change, switch",skifter - skiftet - har skiftet
+410,skille,"part, separate",skiller - skilte - har skilt
+411,skilles,"seperate, divorse",skilles (skils) - skiltes - har skiltes 
+412,skinne,shine,skinner - skinte - har skint
+413,skjære,"cut, slice",skjærer - skar - har skåret
+414,skje,"happen, occur",skjer - skjedde - har skjedd
+415,skjelve,"tremble, shake",skjelver - skalv - har skjelvet
+416,skjønne,understand,skjønner - skjønte - har skjønt
+417,skjule,"hide, conceal",skjuler - skjulte - har skjult
+418,skrape,scrape,skraper - skrapet (skrapte) - har skrapet (skrapt)
+419,skremme,"scare, frighten",skremmer - skremte - har skremt
+420,skride,"proceed, advance",skrider - skred (skreid) - har skredet (skridd)
+421,skrike,"shout, scream",skiker - skreik - har skreket
+422,skrive,write,skriver - skrev - har skrevet
+423,skru,"screw, spin, twist",skrur - skrudde - har skrudd
+424,skrubbe,scrub,skrubber - skrubbet - har skrubbet
+425,skryte,boast,skryter - skrøt - har skrytt
+426,skulle,shall,skal - skulle - har skullet
+427,skutte,"shiver, shake",skutter - skuttet - har skuttet
+428,skvette,"sprinkle, splash",skvetter - skvatt - har skvettet
+429,skygge,shadow,skygger - skygget (skygde) - har skygget (skygd)
+430,skylde,owe,skylder - skyldte - har skyldt
+431,skylle,"rinse, wash",skyller - skylte - har skylt
+432,skynde,"hurry up, hasten",skynder - skyndte - har skyndt
+433,skyte,shoot,skyter - skjøt (skøyt) - har skutt
+434,skyve,"push, shove",skyver - skjøv - har skjøvet
+435,slå,beat,slår - slo - har slått
+436,slappe av,relax,slapper av - slappet av - har slappet av
+437,slåss,fight ,slåss - sloss - har slåss
+438,slenge,throw,slenger - slengte (slang) - har slengt
+439,slette,"level, smooth; erase",sletter - slettet - har slettet
+440,slipe,"grind, sharpen",sliper - slipte - har slipt
+441,slippe,"let go of, drop",slipper - slapp - har sluppet
+442,slite,"struggle, work hard; pull, tear",sliter - slet (sleit) - har slitt
+443,slutte,stop,slutter - sluttet - har sluttet
+444,smake,taste,smaker - smaket (smakte) - har smaket (smakt)
+445,smelle,"bang, crack, snap",smeller - smelte - har smelt
+446,smelte,melt,smelter - smeltet - har smeltet
+447,smette,slip,smetter - smatt - har smettet
+448,smile,smile,smiler - smilte - har smilt
+449,sminke,apply make up,sminker - sminket - har sminket
+450,smitte,infect,smitter - smittet - har smittet
+451,smøre,"oil, lubricate",smører - smurte - har smurt
+452,smyge,"steal, creep",smyger-smøg-har smøget
+453,snakke,"speak, talk",snakker - snakket - har snakket
+454,snegle,move slowly,snegler - sneglet - har sneglet
+455,snike,sneak,sniker - snek - har sneket
+456,snø,snow,snør - snødde - har snødd
+457,snu,turn back (around),snur - snudde - har snudd
+458,snyte,"cheat,swindle",snyter - snøt - har snytt
+459,søke,"apply, seek",søker - søkte - har søkt
+460,søle,"dirt, mess, spill",søler - sølte - har sølt
+461,sørge,grieve,sørger - sørget (sørgde) - har sørget (sørgd)
+462,sove,sleep,sover - sov - har sovet
+463,sovne,fall asleep,sovner - sovnet - har sovnet
+464,spandere,stand treat; spend,spanderer - spanderte - har spandert
+465,spare,"save, be economical",sparer - sparte - har spart
+466,sparke,kick,sparker - sparket - har sparket
+467,spikre,nail,spikrer - spikret - har spikret
+468,spille,play (game),spiller - spilte - har spilt
+469,spinne,spin,spinner - spant - har spunnet
+470,spise,eat,spiser - spiste - har spist
+471,spleise,splice,spleiser - spleiste (spleiset) - har spleist (spleiset)
+472,spøke,"haunt, make a joke",spøker - spøkte - har spøkt
+473,spørre,"ask, inquire",spør - spurte - har spurt
+474,sprekke,"crack, burst",sprekker - sprakk - har sprukket
+475,sprette,"leap, bounce",spretter - spratt - har sprettet
+476,springe,"run; jump, leap",springer - sprang - har sprunget
+477,stå,stand,står - stod - har stått
+478,stappe,"stuff, cram",stapper - stappet - har stappet
+479,starte,start,starter - startet - har startet
+480,stave,spell,staver - stavet - har stavet
+481,steke,fry,steker - stekte - har stekt
+482,stelle,"care for, nurse; manage",steller - stelte - har stelt
+483,stemme,vote; agree; tune,stemmer - stemte - har stemt
+484,stenge,"close, block",stenger - stengte - har stengt
+485,stevne,summon,stevner - stevnet - har stevnet
+486,stige,"rise, increase; climb",stiger - steg (steig) - har steget
+487,stikke,"stick in, run away",stikker - stakk - har stukket
+488,stille,"put, place; satisfy",stiller - stilte - har stilt
+489,stirre,"stare, gaze",stirrer - stirret - har stirret
+490,stjele,steal,stjeler - stjal - har stjålet
+491,stole,"rely, trust",stoler - stolte - har stolt
+492,stoppe,stop,stopper - stoppet - har stoppet
+493,strekke,strech; expand,streker - strakk - har strukket
+494,stri,struggle; conflict,strir - stred - har stridd
+495,strikke,knit,strikker - strikket - har strikket
+496,strupe,choke,struper - strupte - har strupt
+497,stryke,"delete, erase; stroke; fail",stryker - strøk - har strøket
+498,stryke,iron (clothes),stryker - strøk - har strøket
+499,studere,study; wonder,studerer - studerte - har studert
+500,stykke,"split, cut",stykker - stykket - har stykket
+501,suge,suck; absorb,suger - suget (sugde) - har suget (sugd)
+502,sulte,starve,sulter - sultet - har sultet
+503,suspendere,suspend,suspenderer - suspenderte - har suspendert
+504,svare,"answer, reply",svarer - svarte - har svart
+505,sverge,swear,sverger - sverget (svor) -  har svoret
+506,svi,"burn, sting",svir - sved - har svidd
+507,svike,"deceive, disappoint",sviker - svek - har sveket
+508,svinge,swing,svinger - svingte - har svingt 
+509,svømme,swim,svømmer - svømte - har svømt
+510,sy,sew,syr - sydde - har sydd
+511,sykle,cycle,sykler - syklet - har syklet
+512,synes,"think (mean), seem",synes - syntes - har synes
+513,synge,sing,synger - sang - har sunget
+514,synke,sink,synker - sank - har sunket
+515,ta,take,tar - tok - har tatt
+516,takke,thank,takker - takket - har takket
+517,takle,"cope, deal with",takler - taklet - har taklet
+518,tape,"lose (sports, money)",taper - tapte - har tapt
+519,tappe,tap (drain liquid),tapper - tappet - har tappet
+520,telle,count,teller - talte - har talt
+521,tenke,"think, suppose",tenker - tenkte - har tenkt
+522,tenne,"light, ignite",tenner - tente - har tent
+523,tigge,beg,tigger -  tagg (tigde) - har tigget (tigd)
+524,tilby,offer,tilbyr - tilbød - har tilbudt
+525,tilfredsstille,satisfy,tilfredsstiller - tilfredsstilte - har tilfredsstilt
+526,tilhøre,"belong to, be a member of",tilhører - tilhørte - har tilhørt
+527,tilpasse,"customize, adapt",tilpasser - tilpasset - har tilpasset
+528,tilstå,confess,tilstår - tilsto - har tilstått
+529,tiltale,"address, speak to",tiltaler - tiltalte - har tiltalt
+530,tjene,"serve, make money",tjener - tjente - har tjent
+531,tolke,interpret,tolker - tolket - har tolket
+532,tømme,"empty, drain",tømmer - tømte - har tømt
+533,tore,dare,tør - torde - har tort
+534,tørke,dry,tørker - tørket - har tørket
+535,tørste,thirst for,tørster - tørstet - har tørstet
+536,torturere,torture,torturerer - torturerte - har torturert
+537,tre,thread; step,trer - trådte - har trådt
+538,treffe,"meet, hit",treffer - traff - har truffet
+539,trekke,pull; draw; drag,trekker - trakk - har trukket
+540,trene,"train, practice",trener - trente - har trent
+541,trenge ,need,trenger - trengte - har trengt
+542,trille,"roll, wheel",triller - trillet - har trillet
+543,trive,"catch up, grab",triver - trev (treiv) - har trevet (trivd)
+544,trives,"flourish, feel happy",trives - trivdes - har trives
+545,tro,think (believe),tror - trodde - har trodd
+546,true,threaten,truer - truet - har truet
+547,trykke,press; print,trykker - trykket (trykte) - har trykket (trykt) 
+548,tulle,"joke, talk nonsense",tuller - tullet - har tullet
+549,tvile,doubt,tviler - tvilte - har tvilt
+550,tvinge,"force, compel",tvinger - tvang - har tvunget
+551,tvinne,twist,tvinner - tvinnet - har tvunnet
+552,tyste,inform,tyster - tystet - har tystet
+553,ulme,smoulder,ulmer - ulmet - har ulmet
+554,underskrive,sign,underskriver - underskrev - har underskrevet
+555,undersøke,"examine, investigate",undersøker - undersøkte - har undersøkt
+556,unnfange,conceive,unnfanger - unnfanget - har unnfanget
+557,unnskylde,excuse,unnskylder - unnskyldte - har unnskyldt
+558,utarbeide,"prepare, work out",utarbeider - utarbeidet - har utarbeidet
+559,utbytte,exploit,utbytter - utbyttet - har utbyttet
+560,utdanne,"educate, train",utdanner - utdannet - har utdannet
+561,utføre,"export, perform",utfører - utførte - har utført
+562,utnytte,"make use of, exploit",utnytter - utnyttet - har utnyttet
+563,utrydde,"eliminate, wipe out",utrydder - utryddet - har utryddet
+564,utslå,hanging down,utslår - utslo - har utslått
+565,uttrykke,express,uttrykker - uttrykte - har uttrykt
+566,være,be,er - var - har vært
+567,våkne,wake up,våkner - våknet - har våknet
+568,validere,validate,validerer - validerte - har validert
+569,varme,warm,varmer - varmet - har varmet
+570,vaske,wash,vasker - vasket - har vasket
+571,veie,weigh; carry weight,veier - veide - har veid
+572,vekke,wake someone up,vekker - vekket - har vekket
+573,velge,"choose, elect",velger - valgte - har valgt
+574,vente,wait,venter - ventet - har ventet
+575,verge,defend; protect,verger - verget - har verget
+576,verne,"preserve, defend",verner - vernet - har vernet
+577,vike,"yield, give away",viker - vek (veik) - har veket
+578,ville,"will, wish, want",vil - ville - har villet
+579,vinke,wave,vinker - vinket - har vinket
+580,vinne,"gain, win",vinner - vant - har vunnet
+581,virke,seem; work (function),virker - virket - har virket
+582,vise,show,viser - viste - har vist
+583,viske,rub,visker - visket - har visket
+584,vite,know (knowledge),vet - visste - har visst
+585,vokse,"grow, increase",vokser - vokset - har vokset
+586,voldta,rape,voldtar - voldtok - har voldtatt
+587,vri ,"twist, screw, bend",vrir - vred - har vridd
+588,vrikke,"turn, twist",vrikker - vrikket - har vrikket
+589,vurdere,"estimate, assess",vurderer - vurderte - har vurdert

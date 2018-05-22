@@ -1,0 +1,79 @@
+﻿ID,N,E,C
+1,albue,elbow,en albue - albuen - albuer - albuene
+2,ankel,ankle,en ankel - ankelen - ankler - anklene
+3,ansikt,face,et ansikt - ansiktet - ansikter (ansikt) - ansiktene (ansikta)
+4,arm,arm,en arm - armen - armer - armene
+5,avføring,faeces,en/ei avføring - avføringen (avføringa) - avføringer - avføringene
+6,bein,bone,et bein - beinet - bein - beinene (beina)
+7,ben,leg,et ben - benet - ben - benene (bena)
+8,blod,blood,et blod - blodet - blod - blodene (bloda)
+9,blodkar,blood vessel,et blodkar - blodkaret - blodkar - blodkarene (blodkara)
+10,bryst,breast,et bryst - brystet - bryster (bryst) - brystene (brysta)
+11,dødshjelp,euthanasia,en/ei dødshjelp - dødshjelpen (dødshjelpa) - dødshjelper - dødshjelpene
+12,finger,finger,en finger - fingeren - fingrer (fingre) - fingrene
+13,forgiftning,poisoning,en forgiftning - forgiftningen (forgiftninga ) - forgiftninger - forgiftningene
+14,forkjølelse,cold,en forkjølelse - forkjølelsen - forkjølelser - forkjølelsene
+15,fot,foot,en fot - foten - fot - fotene
+16,hals,neck,en hals - halsen - halser - halsene
+17,hånd,hand,en/ei hånd - hånden (hånda) - hender - hendene
+18,hår,hair,et hår - håret - hår - håra (hårene)
+19,hevelse,swelling,en hevelse - hevelsen - hevelser - hevelsene
+20,hjerne,brain, en hjerne - hjernen - hjerner - hjernene
+21,hjerte,heart, et hjerte - hjertet - hjerter - hjertene (hjerta)
+22,hode,head,et hode - hodet - hoder - hoda (hodene)
+23,hodeskalle,skull,en hodeskalle - hodeskallen - hodeskaller - hodeskallene
+24,hørsel,hearing,en/ei hørsel - hørselen (hørsla) - hørsler - hørslene
+25,hud,skin,en/ei hud - huden (huda) - huder - hudene
+26,influensa,flu,en influensa - influensaen - influensaer - influensaene
+27,kinn,cheek,et kinn - kinnet - kinner (kinn) - kinnene (kinna)
+28,kjeve,jaw,en kjeve - kjeven - kjever - kjevene
+29,kjønnsorgan,genital,et kjønnsorgan - kjønnsorganet - kjønnsorganer (kjønnsorgan) - kjønnsorganene (kjønnsorgana)
+30,kne,knee,et kne - kneet - kne (knær) - knea (knærne)
+31,knoke,knuckle,en knoke - knoken - knoker - knokene
+32,lår,thigh,et lår - låret - lår - lårene (låra)
+33,ledd,joint,et ledd - leddet - ledd - leddene (ledda)
+34,legemiddel,medicine,et legemiddel - legemidlet (legemiddelet) - legemidler (legemiddel) - legemidlene (legemidla)
+35,leppe,lip,en/ei leppe - leppen (leppa) - lepper - leppene
+36,lever,liver,"en/ei lever - leveren (levra) - levere (levrer, levre) - levrene"
+37,lik,corpse,et lik - liket - lik - likene (lika)
+38,livstegn,sign of life,et livstegn - livstegnet - livstegn - livstegnene (livstegna)
+39,lunge,lung,en/ei lunge - lungen (lunga) - lunger - lungene
+40,mage,stomach,en mage - magen - mager - magene
+41,mareritt,nightmare,et mareritt - marerittet - mareritt - marerittene (mareritta)
+42,munn,mouth,en munn - munnen - munner - munnene
+43,muskel,muscle,en muskel - muskelen - muskler - musklene
+44,nakke,"nape, back of head",en nakke - nakken - nakker - nakkene
+45,negl,nail,en negl - neglen - negler - neglene
+46,nese,nose,en/ei nese - nesen (nesa) - neser - nesene
+47,nyre,kidney,"en/ei/et nyre - nyren (nyra, nyret) - nyrer - nyrene (nyra)"
+48,obduksjon,autopsy,en obduksjon - obduksjonen - obduksjoner - obduksjonene
+49,øre,ear,en øre - øren - ører - ørene
+50,øye,eye,"et øye -øyet - øyer (øyne) - øyene (øya, øynene)"
+51,øyelokk,eyelid, et øyelokk - øyelokket - øyelokk - øyelokkene (øyelokka)
+52,øyenbryn,eyebrow,et øyebryn - øyebrynet - øyebryn -  øyebrynene (øyebryna)
+53,øyevipp,eyelash,en øyevipp - øyevippen - øyevipper - øyevippene
+54,panne,forehead,en/ei panne - pannen (panna) - panner - pannene
+55,røntgen,X-ray,en røntgen - røntgenen - røntgen - røntgenene
+56,rumpeballe,buttock,en rumpeballe - rumpeballen - rumpeballer - rumpeballene
+57,rus,intoxication,en rus - rusen - ruser - rusene
+58,rygg,back,en rygg - ryggen - rygger - ryggene
+59,rynke,wrinkle,en/ei rynke - rynken (rynka) - rynker - rynkene
+60,skade,injury,en skade - skaden - skader - skadene
+61,skade,"damage, injury",en skade - skaden - skader - skadene
+62,skulder,shoulder,en/ei skulder - skulderen (skuldra) - skuldrer (skuldre) - skuldrene
+63,smak ,taste  ,en smak  - smaken - smaker - smakene
+64,smakssans,taste (sense),en smakssans - smakssansen - smakssanser - smakssansene
+65,smittefare,danger of infection,en smittefare - smittefaren - smittefarer - smittefarene
+66,spytt,saliva,et spytt - spyttet - spytt - spyttene (spytta)
+67,stemme,voice,en stemme - stemmen - stemmer - stemmer - stemmene
+68,svangerskap,pregnancy,et svangerskap - svangerskapet - svangerskap - svangerskapene (svangerskapa)
+69,svie,pain,en svie - svien - svier - sviene
+70,syn,vision,et syn - synet - syner (syn) - synene (syna)
+71,tå,toe,en/ei tå - tåen (tåa) - tær - tærne
+72,tann,tooth,en/ei tann - tannen (tanna) - tenner - tennene
+73,tåre,tear,en/ei tåre - tåren (tåra) - tårer - tårene
+74,tarm,gut,en tarm - tarmen - tarmer - tarmene
+75,tommeltott,thumb,en tommeltott - tommeltotten - tommeltotter - tommeltottene
+76,tunge,tongue,en/ei tunge - tungen (tunga) - tunger - tungene
+77,underliv,abdomen,et underliv - underlivet - underliv - underlivene (underliva)
+78,urin,urine,en urin - urinen - uriner - urinene
