@@ -1,5 +1,5 @@
 # LaereNorsk
-This app helps me to learn norwegian :) (works but still under construction)
+Tool to learn norwegian
 
 Application LæreNorsk is written in Python, interface is done via Tkinter library
 
